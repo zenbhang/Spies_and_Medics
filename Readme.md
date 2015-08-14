@@ -71,9 +71,9 @@ For the next round, the player that went second previously, goes first.
 
 * **4 -> 10** - Value Cards
 
-* **J and K** - Spies (draw 1, has a value of 5 and is placed in the opponents field)
+* **J and K** - Spies (draw 1, has a value of 5 and is placed in the opponents field, as well as adding to your opponent's current round score)
 
-* **Q** - Medics (revive 1 card from the player's discard pile, has a value of 5 and placed in the opponents field)
+* **Q** - Medics (revive 1 card from the player's discard pile, has a value of 5 and placed in the opponents field, as well as adding to your opponent's current round score)
 
 
 ###Modifiers and Nullifies
