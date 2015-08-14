@@ -24,6 +24,8 @@ Each player is given 10 cards.
 
 At the beginning of the game, a coin is flipped and whoever wins drafts first, and the other starts first.
 
+![Layout](http://i.imgur.com/JJUynCQ.jpg)
+
 ###Phases
 
 Coin Flip -> Draft Phase -> Turn Phase
