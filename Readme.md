@@ -1,8 +1,13 @@
 # Gwent for 52 Deck Cards
 By Benjamin Zhang and Travis Vuong
+
 ##Introduction
+Gwent is a card game from the Witcher 3.
+
+Below are the rules for an adapted version of the game using 52 card poker decks.
 
 ##Rules
+
 ###General
 
 2 Players.
@@ -56,17 +61,17 @@ All modifiers and side cards go to the side pile.
 For the next round, the player that went second goes first.
 
 ##Cards
-Aces - Modifiers
+* **Aces** - Modifiers
 
-2- Modifiers
+* **2**- Modifiers
 
-3- Nullify
+* **3**- Nullify
 
-4 -> 10 - Value Cards
+* **4 -> 10** - Value Cards
 
-J and K - Spies (draw 1, has a value of 5 and is placed in the opponents field)
+* **J and K** - Spies (draw 1, has a value of 5 and is placed in the opponents field)
 
-Q - Medics (revive 1 card from the player's discard pile, has a value of 5 and placed in the opponents field)
+* **Q** - Medics (revive 1 card from the player's discard pile, has a value of 5 and placed in the opponents field)
 
 
 ###Modifiers and Nullifies
@@ -83,7 +88,9 @@ A nullify can be played even if there is no modifier on the field.
 ###Spies and Medics
 All face cards are worth 5 in the specified row for the opposing player.
 
+They are played on the enemy's side of the field in their respective color row.
+
 A spy allows the player that plays it to draw 1 card.
 
-A medic allows the player that plays it to revive 1 value or spy card from their discard pile and place it on the field.
+A medic allows the player that plays it to revive 1 value or spy card from their discard pile and place it just as they were from their hand.
 
