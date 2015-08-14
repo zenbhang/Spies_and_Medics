@@ -58,7 +58,7 @@ When a round ends, all cards on each player's side of the field will go into the
 
 All modifiers and side cards go to the side pile.
 
-For the next round, the player that went second goes first.
+For the next round, the player that went second previously, goes first.
 
 ##Cards
 * **Aces** - Modifiers
