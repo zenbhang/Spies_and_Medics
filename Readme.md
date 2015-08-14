@@ -104,4 +104,4 @@ _______________________________________________________________________
 ###Legal
 ![Creative Commons](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
 
-52 Card Gwent adapted by Benjamin Zhang and Travis Vuong is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+52 Card Gwent adapted by Benjamin Zhang and Travis Vuong is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
