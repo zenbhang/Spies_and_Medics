@@ -1,4 +1,4 @@
-# Gwent-for-52-Deck-Cards
+# Gwent for 52 Deck Cards
 By Benjamin Zhang and Travis Vuong
 ##Introduction
 
