@@ -2,7 +2,7 @@
 
 
 ##Introduction
-Gwent is a card game from the Witcher 3.
+Gwent is a card game from the Witcher 3. It emphasizes rationing and thinking ahead.
 
 Below are the rules for an adapted version of the game using 52 card poker decks.
 
