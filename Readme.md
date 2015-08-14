@@ -77,22 +77,31 @@ For the next round, the player that went second previously, goes first.
 
 
 ###Modifiers and Nullifies
-If a row modifier is played, then all cards with the same color are worth 1 each.
+If a Row Modifier is played, then each card in the Modifier's color row is worth a value of 1 instead of their number value.
 
-If another modifier is placed, then it replaces the existing modifier. 
+If another modifier is placed, then it replaces the effect of the existing modifier, which is placed in the side pile.
 
-If a Nullify is placed, it replaces the current modifier and no modifier is in effect.
+If a Nullify is placed, it replaces the current modifier and also goes into the side pile.
 
 A modifier can even be placed on a modifier if it has the same effect.
 
 A nullify can be played even if there is no modifier on the field.
 
 ###Spies and Medics
-All face cards are worth 5 in the specified row for the opposing player.
+All face cards are worth a value of 5 for the opposing player.
 
 They are played on the enemy's side of the field in their respective color row.
 
 A spy allows the player that plays it to draw 1 card.
 
-A medic allows the player that plays it to revive 1 value or spy card from their discard pile and place it just as they were from their hand.
+A medic, however, allows the player that plays it to revive 1 value or spy card from their discard pile and place it just as they were from their hand.
 
+_______________________________________________________________________
+###Strategies
+
+###Notes From the Adaptors
+
+###Legal
+![Creative Commons](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
+
+52 Card Gwent adapted by Benjamin Zhang and Travis Vuong is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
