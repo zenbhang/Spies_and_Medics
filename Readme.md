@@ -1,6 +1,6 @@
 ![Title](http://i.imgur.com/SMNA2xd.jpg)
 
-
+(v1.01)
 ##Introduction
 Gwent is a card game from the Witcher 3. It emphasizes rationing and thinking ahead.
 
