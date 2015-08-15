@@ -103,11 +103,12 @@ A spy allows the player that plays it to draw 1 card.
 A medic, however, allows the player that plays it to revive 1 value or spy card from their discard pile and place it just as they were from their hand.
 
 _______________________________________________________________________
-###Strategies
-
-###Notes From the Adaptors
 
 ###Legal
 ![Creative Commons](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
 
 52 Card Gwent adapted by Benjamin Zhang and Travis Vuong is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+The Witcher 3 is a property owned by CD Projekt Red.
+
+If you like the adapted card game rule set, please support the official release of the Witcher 3.
