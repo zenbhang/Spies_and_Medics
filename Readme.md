@@ -54,9 +54,15 @@ The remaining player can play as many cards as they want until they also pass.
 
 Whoever has the highest point value, after both players pass, wins the round.
 
-If a player wins a round, they draw a card.
+If a player wins the first round, they draw 2 cards, and their opponent draws 1 card.
+
+If a player wins the second round, and the match hasn't ended, then they draw 3 cards, while their opponent draws 1 card.
+
+If a round ends in a draw, then both players draw 2 cards.
 
 When a round ends, all cards on each player's side of the field will go into their respective discard pile regardless of original ownership.
+
+The score is set to 0 on both sides once a round ends.
 
 All modifiers and side cards go to the side pile.
 
