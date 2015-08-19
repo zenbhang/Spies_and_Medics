@@ -3,7 +3,7 @@
 (v1.02)
 ##Introduction
 The game of Spies and Medics is a card game that takes influence from many historical as well as contemporary sources.
-From archaic War to modern Witcher 3, the card game is a weird emalgameted love child and homage to old fashioned and new card games.
+From archaic War to modern *Witcher 3*, the card game is a weird emalgameted love child and homage to old fashioned and new card games.
 
 ##Rules
 
@@ -110,4 +110,4 @@ _______________________________________________________________________
 
 Spies and Medics created by Benjamin Zhang and Travis Vuong is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
-The Witcher 3 is a property owned by CD Projekt Red.
+*The Witcher 3* is a property owned by CD Projekt Red.
