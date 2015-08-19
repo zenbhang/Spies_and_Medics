@@ -2,11 +2,8 @@
 
 (v1.02)
 ##Introduction
-Gwent is the fictional card game from the Witcher 3. It emphasizes rationing and thinking ahead.
-
-
-
-Below are the rules for an adapted version of the game using 52 card poker decks.
+The game of Spies and Medics is a card game that takes influence from many historical as well as contemporary sources.
+From archaic War to modern Witcher 3, the card game is a weird emalgameted love child and homage to old fashioned and new card games.
 
 ##Rules
 
@@ -111,8 +108,6 @@ _______________________________________________________________________
 ###Legal
 ![Creative Commons](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
 
-52 Card Gwent adapted by Benjamin Zhang and Travis Vuong is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+Spies and Medics created by Benjamin Zhang and Travis Vuong is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 The Witcher 3 is a property owned by CD Projekt Red.
-
-If you like the adapted card game rule set, please support the official release of the Witcher 3.
