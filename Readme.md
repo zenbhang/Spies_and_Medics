@@ -1,6 +1,6 @@
 ![Title](http://i.imgur.com/SMNA2xd.jpg)
 
-(v1.01)
+(v1.02)
 ##Introduction
 Gwent is the fictional card game from the Witcher 3. It emphasizes rationing and thinking ahead.
 
@@ -58,7 +58,7 @@ Whoever has the highest point value, after both players pass, wins the round.
 
 If a player wins the first round, they draw 2 cards, and their opponent draws 1 card.
 
-If a player wins the second round, and the match hasn't ended, then they draw 3 cards, while their opponent draws 1 card.
+If a player wins the second round, and the match hasn't ended, then they draw 3 cards, while their opponent draws 2 cards.
 
 If a round ends in a draw, then both players draw 2 cards.
 
@@ -103,6 +103,8 @@ They are played on the enemy's side of the field in their respective color row.
 A spy allows the player that plays it to draw 1 card.
 
 A medic, however, allows the player that plays it to revive 1 value or spy card from their discard pile and place it just as they were from their hand.
+
+A spy and a medic can also be played on your side of the field, but are only worth 3 points.
 
 _______________________________________________________________________
 
