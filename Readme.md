@@ -111,3 +111,4 @@ _______________________________________________________________________
 Spies and Medics created by Benjamin Zhang and Travis Vuong is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 *The Witcher 3* is a property owned by CD Projekt Red.
+Spies and Medics is a open property and can be mutated to your own liking, we do not claim to own card games as a whole. We are not morons.
