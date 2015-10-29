@@ -25,6 +25,7 @@ At the beginning of the game, a coin is flipped and whoever wins drafts first, a
 
 ![Layout](http://i.imgur.com/JJUynCQ.jpg)
 
+
 ###Phases
 
 Coin Flip -> Draft Phase -> Turn Phase
@@ -79,7 +80,6 @@ For the next round, the player that went second previously, goes first.
 * **J and K** - Spies (draw 1, has a value of 5 and is placed in the opponents field, as well as adding to your opponent's current round score)
 
 * **Q** - Medics (revive 1 card from the player's discard pile, has a value of 5 and placed in the opponents field, as well as adding to your opponent's current round score)
-
 
 ###Modifiers and Nullifies
 If a Row Modifier is played, then each card in the Modifier's color row is worth a value of 1 instead of their number value.
