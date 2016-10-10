@@ -11,7 +11,7 @@ From archaic War to modern *Witcher 3*, the card game is a weird emalgameted lov
 
 2 Players.
 
-For this game a deck of 52 cards (A-K, no jokers) is required.
+For this game, a deck of 52 cards (A-K, no jokers) is required.
 
 Each player has 2 lanes, one for red cards, one for black cards.
 
