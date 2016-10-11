@@ -3,7 +3,7 @@
 (v1.02)
 ##Introduction
 The game of Spies and Medics is a card game that takes influence from many historical as well as contemporary sources.
-From archaic War to modern *Witcher 3*, the card game is a weird emalgameted love child and homage to old fashioned and new card games.
+From archaic war to the more modern *Witcher 3*, the card game is a weird amalgamated love child and homage to old fashioned and new card games.
 
 ##Rules
 
@@ -60,7 +60,7 @@ If a player wins the second round, and the match hasn't ended, then they draw 3 
 
 If a round ends in a draw, then both players draw 2 cards.
 
-When a round ends, all cards on each player's side of the field will go into their respective discard pile regardless of original ownership.
+When a round end, all cards on each player's side of the field will go into their respective discard pile regardless of original ownership.
 
 The score is set to 0 on both sides once a round ends.
 
@@ -77,9 +77,9 @@ For the next round, the player that went second previously, goes first.
 
 * **4 -> 10** - Value Cards
 
-* **J and K** - Spies (draw 1, has a value of 5 and is placed in the opponents field, as well as adding to your opponent's current round score)
+* **J and K** - Spies (draw 1, has a value of 5 and is placed in the opponents’ field, as well as adding to your opponent's current round score)
 
-* **Q** - Medics (revive 1 card from the player's discard pile, has a value of 5 and placed in the opponents field, as well as adding to your opponent's current round score)
+* **Q** - Medics (revive 1 card from the player's discard pile, has a value of 5 and placed in the opponents’ field, as well as adding to your opponent's current round score)
 
 ###Modifiers and Nullifies
 If a Row Modifier is played, then each card in the Modifier's color row is worth a value of 1 instead of their number value.
