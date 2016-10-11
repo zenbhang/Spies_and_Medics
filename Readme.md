@@ -3,7 +3,7 @@
 (v1.02)
 ##Introduction
 The game of Spies and Medics is a card game that takes influence from many historical as well as contemporary sources.
-From archaic War to modern *Witcher 3*, the card game is a weird emalgameted love child and homage to old fashioned and new card games.
+From archaic War to modern *Witcher 3*, the card game is a weird amalgamated love child and homage to old fashioned and new card games.
 
 ##Rules
 
@@ -31,7 +31,7 @@ At the beginning of the game, a coin is flipped and whoever wins drafts first, a
 Coin Flip -> Draft Phase -> Turn Phase
 
 ###Drafting
-As determined by the coin toss, whoever drafts first must discard one card from their hand, then draws one from the deck.
+As determined by the coin toss, whoever drafts first must discard one card from their hand, then draw one from the deck.
 
 After doing so, the other player discards and draws.
 
