@@ -3,7 +3,7 @@
 (v1.02)
 ##Introduction
 The game of Spies and Medics is a card game that takes influence from many historical as well as contemporary sources.
-From archaic War to modern *Witcher 3*, the card game is a weird amalgamated love child and homage to old fashioned and new card games.
+From archaic war to the more modern *Witcher 3*, the card game is a weird amalgamated love child and homage to old fashioned and new card games.
 
 ##Rules
 
