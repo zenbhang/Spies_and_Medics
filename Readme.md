@@ -13,7 +13,7 @@ From archaic War to modern *Witcher 3*, the card game is a weird emalgameted lov
 
 For this game a deck of 52 cards (A-K, no jokers) is required.
 
-Each player has 2 lanes, one for red cards, one for black cards.
+Each player has 2 lanes: one for red cards, one for black cards.
 
 A player must win two rounds out of three in order to win the match.
 
@@ -21,7 +21,7 @@ Rounds and matches can end in a draw.
 
 Each player is given 10 cards.
 
-At the beginning of the game, a coin is flipped and whoever wins drafts first, and the other starts first.
+At the beginning of the game, a coin is flipped. Whoever wins the coin flip drafts first while the other player starts first.
 
 ![Layout](http://i.imgur.com/JJUynCQ.jpg)
 
@@ -31,9 +31,9 @@ At the beginning of the game, a coin is flipped and whoever wins drafts first, a
 Coin Flip -> Draft Phase -> Turn Phase
 
 ###Drafting
-As determined by the coin toss, whoever drafts first must discard one card from their hand, then draws one from the deck.
+As determined by the coin toss, whoever drafts first must discard one card from their hand then draw one from the deck.
 
-After doing so, the other player discards and draws.
+After doing so the other player discards and draws.
 
 The first player discards and draws again.
 
@@ -44,7 +44,7 @@ All cards discarded in the drafting phase go into the side pile.
 After the drafting phase is done, the first turn can begin.
 
 ###Rounds
-The player who drafted second, places the first card.
+The player who drafted second places the first card.
 
 Each turn a player can play one card or pass.
 
@@ -54,11 +54,11 @@ The remaining player can play as many cards as they want until they also pass.
 
 Whoever has the highest point value, after both players pass, wins the round.
 
-If a player wins the first round, they draw 2 cards, and their opponent draws 1 card.
+If a player wins the first round, they draw 2 cards and their opponent draws 1 card.
 
-If a player wins the second round, and the match hasn't ended, then they draw 3 cards, while their opponent draws 2 cards.
+If a player wins the second round and the match hasn't ended, then they draw 3 cards while their opponent draws 2 cards.
 
-If a round ends in a draw, then both players draw 2 cards.
+If a round ends in a draw then both players draw 2 cards.
 
 When a round ends, all cards on each player's side of the field will go into their respective discard pile regardless of original ownership.
 
@@ -66,7 +66,7 @@ The score is set to 0 on both sides once a round ends.
 
 All modifiers and side cards go to the side pile.
 
-For the next round, the player that went second previously, goes first.
+For the next round, the player that went second previously goes first.
 
 ##Cards
 * **Aces** - Modifiers
