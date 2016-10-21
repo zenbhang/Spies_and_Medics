@@ -2,8 +2,8 @@
 
 (v1.02)
 ##Introduction
-The game of Spies and Medics is a card game that takes influence from many historical as well as contemporary sources.
-From archaic War to modern *Witcher 3*, the card game is a weird emalgameted love child and homage to old fashioned and new card games.
+The game of Spies and Medics is a card game that takes influence from many historical and contemporary sources.
+From archaic War to the modern *Witcher 3*, the card game is a weird amalgamated love child and homage to old fashioned and new card games.
 
 ##Rules
 
@@ -13,13 +13,13 @@ From archaic War to modern *Witcher 3*, the card game is a weird emalgameted lov
 
 For this game a deck of 52 cards (A-K, no jokers) is required.
 
-Each player has 2 lanes, one for red cards, one for black cards.
+Each player has 2 lanes, one for red cards and one for black cards.
 
 A player must win two rounds out of three in order to win the match.
 
 Rounds and matches can end in a draw.
 
-Each player is given 10 cards.
+Each player is given 10 cards to start.
 
 At the beginning of the game, a coin is flipped and whoever wins drafts first, and the other starts first.
 
@@ -48,13 +48,13 @@ The player who drafted second, places the first card.
 
 Each turn a player can play one card or pass.
 
-If a player passes they won't be able to put down a card until the next round.
+If a player passes they will not be able to put down a card until the next round.
 
-The remaining player can play as many cards as they want until they also pass.
+The remaining player can play as many cards as they want until they choose to pass.
 
 Whoever has the highest point value, after both players pass, wins the round.
 
-If a player wins the first round, they draw 2 cards, and their opponent draws 1 card.
+If a player wins the first round, they draw 2 cards and their opponent draws 1 card.
 
 If a player wins the second round, and the match hasn't ended, then they draw 3 cards, while their opponent draws 2 cards.
 
