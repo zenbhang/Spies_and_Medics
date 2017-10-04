@@ -2,12 +2,13 @@
 
 
 ## Introduction (v1.02)
-======
+
+
 Spies and Medics is a card game that takes its influence from a variety of historical to contemporary sources.
 From archaic War to modern *Witcher 3*, Spies and Medics is an unique amalgamation of a love child and an homage to old and new card games.
 
 ## Rules
-======
+
 
 ### General
 
@@ -71,7 +72,7 @@ All modifiers and side cards go to the side pile.
 For the next round, the player that went second previously, goes first.
 
 ## Cards
-======
+
 * **Aces** - Modifiers
 
 * **2**- Modifiers
