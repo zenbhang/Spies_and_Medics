@@ -7,10 +7,10 @@
 **Spies and Medics** is a card game that takes its influence from a variety of historical to contemporary sources.
 From archaic War to modern *Witcher 3*, **Spies and Medics** is an unique amalgamation of a love child and an homage to old and new card games.
 
-## Rules
+## General Rules & Gameplay
 
 
-### General
+### Rules
 
 * 2-Player Game
 
