@@ -4,8 +4,8 @@
 ## Introduction (v1.02)
 
 
-Spies and Medics is a card game that takes its influence from a variety of historical to contemporary sources.
-From archaic War to modern *Witcher 3*, Spies and Medics is an unique amalgamation of a love child and an homage to old and new card games.
+**Spies and Medics_** is a card game that takes its influence from a variety of historical to contemporary sources.
+From archaic War to modern *Witcher 3*, **Spies and Medics_** is an unique amalgamation of a love child and an homage to old and new card games.
 
 ## Rules
 
@@ -96,7 +96,7 @@ A modifier can even be placed on a modifier if it has the same effect.
 
 A nullify can be played even if there is no modifier on the field.
 
-### Spies and Medics
+### **Spies and Medics_**
 All face cards are worth a value of 5 for the opposing player.
 
 They are played on the enemy's side of the field in their respective color row.
@@ -112,6 +112,6 @@ _______________________________________________________________________
 ### Legal
 ![Creative Commons](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
 
-Spies and Medics created by Benjamin Zhang and Travis Vuong is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+**Spies and Medics_** created by Benjamin Zhang and Travis Vuong is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 *The Witcher 3* is a property owned by CD Projekt Red and other licenses.
